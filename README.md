@@ -8,6 +8,7 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 Name | Website | Region
 ------------ | ------- | -------
+These ones | You've already | Applied 
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
@@ -34,6 +35,7 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
+These ones | You haven't | Applied
 [Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
