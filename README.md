@@ -35,7 +35,7 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-These ones | You haven't | Applied
+**These ones** | **You haven't** | **Applied**
 [Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
