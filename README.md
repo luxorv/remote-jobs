@@ -8,7 +8,7 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 Name | Website | Region
 ------------ | ------- | -------
-These ones | You've already | Applied 
+**These ones** | **You've already** | **Applied**
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
